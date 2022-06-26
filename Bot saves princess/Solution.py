@@ -1,6 +1,3 @@
-from math import floor
-
-
 def displayPathtoPrincess(n, grid):
     mario = []
     peach = []
