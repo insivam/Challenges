@@ -7,16 +7,15 @@ def nextMove(n, r, c, grid):
             peach.append(counter)
             peach.append(row.index('p'))
 
-    if mario[1] < peach[1]:
-        return "RIGHT"
-    elif mario[1] > peach[1]:
-        return "LEFT"
-
     if mario[0] < peach[0]:
         return "DOWN"
     elif mario[0] > peach[0]:
         return "UP"
-
+            
+    if mario[1] < peach[1]:
+        return "RIGHT"
+    elif mario[1] > peach[1]:
+        return "LEFT"
 
 n = int(input())
 r, c = [int(i) for i in input().strip().split()]
