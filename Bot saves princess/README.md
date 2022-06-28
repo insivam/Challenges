@@ -16,8 +16,8 @@
 
 <strong>Sample input</strong>
 
-## <pre><code>3
-
+<pre><code>3
+---
 -m-
 p--
 </code></pre>
@@ -35,7 +35,6 @@ LEFT
 <p>The above sample input is just to help you understand the format. The princess ('p') can be in any one of the four corners.</p>
 
 <p><strong>Scoring</strong> <br>
-Your score is calculated as follows : (NxN - number of moves made to rescue the princess)/10, where N is the size of the grid (3x3 in the sample testcase). </p></div></div></div>
-    </div>
+Your score is calculated as follows : (NxN - number of moves made to rescue the princess)/10, where N is the size of the grid (3x3 in the sample testcase). </p>
 
-</div>
+<p align="right"><strong>Final Score: 13.9</strong></p>
