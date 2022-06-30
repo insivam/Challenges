@@ -1,4 +1,4 @@
-<h1 align="center"> Bot saves princess - 2 </h1>
+<h1 align="center"> Bot saves princess 2 </h1>
 
 <strong>Description</strong>
 
