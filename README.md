@@ -14,7 +14,7 @@ Princess Peach is trapped in one of the four corners of a square grid. You are i
 
 ---
 
-<H2 id="Bot-Saves-Princess-2">:european_castle: Bot Saves Princess 2 <a href="https://github.com/insivam/Challenges/tree/main/Bot%20saves%20princess%20-%202"> &rarr; </a></H2>
+<H2 id="Bot-Saves-Princess-2">:european_castle: Bot Saves Princess 2 <a href="https://github.com/insivam/Challenges/tree/main/Bot%20saves%20princess%202"> &rarr; </a></H2>
 In this version of "Bot saves princess", Princess Peach and bot's position are randomly set. Can you save the princess?
 
 ---
