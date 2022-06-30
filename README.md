@@ -12,7 +12,7 @@
 <H2 id="Bot-Saves-Princess">:mushroom: Bot Saves Princess <a href="https://github.com/insivam/Challenges/tree/main/Bot%20saves%20princess"> &rarr; </a></H2>
 <img align="right" src="https://i.imgur.com/3p22Ttt.gif" width="212" height="212" alt="Bot Saves Princess gif">
 <p>Princess Peach is trapped in one of the four corners of a square grid. You are in the center of the grid and can move one step at a time in any of the four directions. Can you rescue the princess?</p>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
@@ -27,7 +27,7 @@
 <H2 id="BotClean">:robot: BotClean <a href="https://github.com/insivam/Challenges/tree/main/BotClean"> &rarr; </a></H2>
 
 <img align="right" src="https://i.imgur.com/SRRMc5w.gif" width="212" height="212" alt="Cleaning bot gif">
-<p>The goal of Artificial Intelligence is to create a rational agent (<a href="https://www.hackerrank.com/external_redirect?to=http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597#reader_B004O4BZ16" target="_blank">Artificial Intelligence 1.1.4</a>). An agent gets input from the environment through sensors and acts on the environment with actuators. In this challenge, you will program a simple bot to perform the correct actions based on environmental input.</p><br><br><br><br><br>
+<p>The goal of Artificial Intelligence is to create a rational agent (<a href="https://www.hackerrank.com/external_redirect?to=http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597#reader_B004O4BZ16" target="_blank">Artificial Intelligence 1.1.4</a>). An agent gets input from the environment through sensors and acts on the environment with actuators. In this challenge, you will program a simple bot to perform the correct actions based on environmental input.</p><br><br><br><br>
 
 ---
 
