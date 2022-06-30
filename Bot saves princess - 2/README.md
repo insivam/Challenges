@@ -50,7 +50,7 @@ p-m--
 <p>As you can see, bot is one step closer to the princess.  </p>
 
 <p><strong>Scoring</strong> <br>
-Your score for every testcase would be (NxN minus number of moves made to rescue the princess)/10 where N is the size of the grid (5x5 in the sample testcase). Maximum score is 17.5 </p></div></div></div>
-</div>
+Your score for every testcase would be (NxN minus number of moves made to rescue the princess)/10 where N is the size of the grid (5x5 in the sample testcase). Maximum score is 17.5 </p>
+
 
 <p align="right"><strong>Final Score: 17.5</strong></p>
