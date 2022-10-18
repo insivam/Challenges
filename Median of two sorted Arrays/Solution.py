@@ -6,4 +6,3 @@ class Solution:
         if size % 2 == 0:
             return (nums[mid] + nums[mid-1])/2
         return nums[mid]
-        
